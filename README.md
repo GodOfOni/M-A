@@ -1,1 +1,1 @@
-https://github.com/GodOfOni/M-A.git
+https://github.com/GodOfOni/M-A
