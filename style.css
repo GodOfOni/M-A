@@ -1,6 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     color: black;
 }
 .picture-logo {
-    padding: 50px 50px 50px 50px;
+    margin: 50px;
+    padding: 30 30 30 30;
 }
